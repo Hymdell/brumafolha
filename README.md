@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Brumafolha — Crônicas de um Reino
 
 Jogo incremental medieval em TypeScript. Você começa sozinho numa clareira, reúne recursos, acende uma fogueira, acolhe moradores e transforma trabalho manual numa aldeia automatizada.
@@ -21,3 +22,7 @@ O salvamento fica no navegador (`localStorage`), com progresso offline limitado 
 - Salvamento automático, progresso offline, importação, exportação e reinício confirmado.
 
 O conteúdo atual cobre o começo solitário até a fundação de uma aldeia e inclui pontos de expansão para exploração regional e arcana.
+=======
+# brumafolha
+teste jogo idle
+>>>>>>> 4ccdce79a36d67d1a871a5c6ec3bdc4b306a5ca7
